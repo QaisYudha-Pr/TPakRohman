@@ -6,10 +6,10 @@
     <!-- Hero Section -->
     <section class="max-w-7xl mt-20 mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center">
       <h1 class="text-4xl md:text-5xl font-bold mb-6">
-        Selamat Datang di <span class="text-indigo-600 dark:text-indigo-400">CMSku</span>
+        Selamat Datang di <span class="text-indigo-600 dark:text-indigo-400">ProjectKu</span>
       </h1>
       <p class="text-lg md:text-xl text-gray-600 dark:text-gray-300 mb-8">
-        Kelola konten dengan mudah dan cepat, dibuat pakai Nuxt 3 + Tailwind ✨
+        Mencoba Membuat Dengan Nuxt
       </p>
       <NuxtLink
         to="/project"
